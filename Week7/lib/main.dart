@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:dio/dio.dart';
-import 'package:week7/api_service.dart';
+import 'package:week7/service/api_service.dart';
 import 'package:week7/model/weather_model.dart';
 
 void main() {
